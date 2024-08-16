@@ -1,0 +1,7 @@
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\bin\Debug\Bankamatik Proje.exe.config
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\bin\Debug\Bankamatik Proje.exe
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\bin\Debug\Bankamatik Proje.pdb
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\obj\Debug\Bankamatik Proje.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\obj\Debug\Bankamatik Proje.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\obj\Debug\Bankamatik Proje.exe
+C:\Users\yigit\OneDrive\Desktop\C#\Bankamatik Proje\obj\Debug\Bankamatik Proje.pdb
